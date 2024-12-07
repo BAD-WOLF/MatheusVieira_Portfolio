@@ -22,3 +22,26 @@ Esses valores ajudam a focar no que realmente importa: entregar algo útil e ate
 
 ---
 
+## Como o Ágil Funciona na Prática?
+
+Existem várias formas de aplicar o Ágil, chamadas de metodologias. Aqui estão algumas bem conhecidas:  
+
+### 1. **Scrum**
+   - É como dividir o trabalho em "fatias" (sprints) e entregar uma de cada vez.  
+   - Todos os dias, a equipe tem uma rápida reunião para ver como estão indo.  
+   - Existem três papéis principais:
+     - **Product Owner**: Quem decide o que é mais importante fazer.
+     - **Scrum Master**: Quem ajuda a equipe a trabalhar sem problemas.
+     - **Time de Desenvolvimento**: Quem coloca a mão na massa.  
+
+### 2. **Kanban**
+   - É como usar um quadro com colunas (exemplo: **A Fazer**, **Fazendo**, **Feito**) para organizar o trabalho.  
+   - Serve para acompanhar tudo de forma visual e manter o fluxo contínuo.  
+
+### 3. **XP (Extreme Programming)**
+   - Focado em técnicas que ajudam a criar um código melhor, como:
+     - **Testar sempre** para evitar erros.  
+     - **Trabalhar em pares**, com dois desenvolvedores no mesmo código.  
+
+---
+
