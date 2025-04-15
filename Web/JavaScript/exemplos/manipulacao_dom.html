@@ -1,0 +1,45 @@
+<script>
+    document.addEventListener('DOMContentLoaded', () => {
+        // Cria o título
+        const titulo = document.createElement('h1');
+        titulo.textContent = "Clique no botão e veja a mágica acontecer!";
+        titulo.style.textAlign = "center";
+        titulo.style.fontFamily = "sans-serif";
+        document.body.appendChild(titulo);
+
+        // Cria o botão
+        const botao = document.createElement('button');
+        botao.textContent = "✨ Mágica!";
+        botao.style.display = "block";
+        botao.style.margin = "20px auto";
+        botao.style.padding = "10px 20px";
+        botao.style.fontSize = "16px";
+        botao.style.cursor = "pointer";
+        document.body.appendChild(botao);
+
+        // Cria uma div para mostrar o resultado
+        const resultado = document.createElement('div');
+        resultado.style.textAlign = "center";
+        resultado.style.marginTop = "30px";
+        document.body.appendChild(resultado);
+
+        // Lista de mensagens mágicas
+        const mensagens = [
+            "🪄 Você virou o mago da dos magos!",
+            "🎩 Um coelho saiu do chapéu!",
+            "✨ Pó de fada no ar!",
+            "🔥 DOM DOM DOM... tu pegou fogo!",
+            "💡 Uma gênio surgiu!"
+        ];
+
+        // Evento de clique
+        botao.addEventListener('click', () => {
+            const index = Math.floor(Math.random() * mensagens.length);
+            resultado.textContent = mensagens[index];
+
+            // Efeitos visuais rápidos
+            resultado.style.color = `hsl(${Math.random() * 360}, 80%, 50%)`;
+            resultado.style.fontSize = `${16 + Math.random() * 20}px`;
+        });
+    });
+</script>
