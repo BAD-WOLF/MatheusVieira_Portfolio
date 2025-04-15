@@ -1,51 +1,55 @@
-# Portfólio de Conhecimentos e Projetos
+# Portfólio de Estudos e Projetos
 
-Bem-vindo ao meu repositório de portfólio! Este espaço foi criado para organizar e apresentar, de forma clara e objetiva, meus conhecimentos práticos e conceituais em diversas áreas do desenvolvimento de software. Aqui, você encontrará tópicos que abrangem desde fundamentos básicos até conceitos mais avançados, distribuídos em categorias como linguagens de programação, ferramentas, banco de dados, e desenvolvimento web.
-
----
-
-## Objetivo
-
-Este repositório serve como uma vitrine para demonstrar minha evolução como desenvolvedor, integrando teoria e prática em projetos e exemplos que representam minha trajetória. Além disso, ele funciona como uma referência para consultas futuras, garantindo que os aprendizados adquiridos estejam sempre ao alcance.
+Seja bem-vindo! Este repositório foi criado com o objetivo de reunir e mostrar de forma prática o que venho aprendendo ao longo da minha jornada como desenvolvedor de software  
+Aqui você vai encontrar exemplos, anotações e projetos que ajudam a consolidar o que estudo no dia a dia
 
 ---
 
-## Estrutura do Repositório
+## Propósito
 
-Os conteúdos estão organizados em pastas temáticas para facilitar a navegação e o entendimento. Cada área de conhecimento está dividida em subcategorias, com materiais como:
-
-- **Fundamentos**: Para quem busca compreender os conceitos básicos.
-- **Exemplos práticos**: Implementações e códigos para ilustrar os tópicos.
-- **Projetos**: Aplicações que consolidam o aprendizado em soluções reais.
-
-### Principais Categorias
-
-- **Banco de Dados**: Inclui fundamentos, modelagem, e exemplos utilizando MySQL e o ORM Doctrine.
-- **Conceitos Avançados**: Arquitetura de software, padrões de projeto, e práticas ágeis.
-- **Ferramentas**: Docker, Git, e estratégias de versionamento.
-- **Linguagens de Programação**: Como C, Python, PHP, e JavaScript, com foco em aplicações práticas.
-- **Desenvolvimento Web**: Estruturas HTML/CSS e scripts para manipulação do DOM.
-- **PHP e Symfony**: Desde fundamentos até o desenvolvimento de sistemas web robustos.
+A ideia principal deste espaço é ter um lugar organizado onde eu possa não só registrar meu progresso, mas também consultar conceitos e práticas que considero importantes  
+É como um caderno de anotações, só que público, bem estruturado e com exemplos reais  
+Além disso, serve como uma forma de apresentar meu trabalho de maneira transparente, mostrando como aplico na prática o que aprendo na teoria
 
 ---
 
-## Filosofia
+## Como está organizado
 
-Acreditar no aprendizado contínuo é o que motiva este trabalho. Cada arquivo neste repositório é uma peça que reflete minhas experiências, desafios e conquistas no mundo da tecnologia. O compromisso com a prática e o estudo constante é o alicerce de cada contribuição.
+Para facilitar a navegação, tudo está separado por temas, ou seja, dentro de cada tema, você vai encontrar pastas com tópicos mais específicos, exemplos comentados e projetos pequenos que coloquei em prática para fixar o conteúdo
+
+### Algumas das categorias:
+
+- **Banco de Dados**: desde a base teórica até exemplos usando MySQL e Doctrine
+- **Conceitos de Arquitetura**: princípios, boas práticas e padrões de projeto
+- **Ferramentas do Dia a Dia**: Git, Docker, wsl, etc ...
+- **Linguagens**: códigos e explicações em PHP, C, Python, JavaScript, entre outras
+- **Desenvolvimento Web**: HTML, CSS e scripts JS para interação com o DOM
+- **PHP e Symfony**: da introdução até projetos mais completos
 
 ---
 
-## Como Usar Este Repositório
+## Por que esse repositório existe
 
-- Explore as categorias de acordo com seu interesse ou necessidade.
-- Utilize os exemplos práticos como base para criar suas próprias soluções.
-- Leia os fundamentos para revisar conceitos importantes ou aprender algo novo.
-- Consulte os projetos para entender como as tecnologias são aplicadas no mundo real.
+- Gosto de registrar aquilo que vou aprendendo e coloco à prova aqui
+- Ter tudo isso centralizado aqui me ajuda tanto a lembrar conceitos quanto a enxergar minha própria evolução ...
+- Aos poucos, esse repositório vai crescendo e se tornando uma espécie de documentação pessoal, feita por mim e para mim, mas aberta a quem quiser acompanhar
 
 ---
 
-## Contribuições e Feedback
+## Como aproveitar o conteúdo
 
-Este portfólio é um trabalho em constante evolução. Se você encontrar algo que possa ser melhorado ou tiver sugestões, fique à vontade para entrar em contato. Toda troca de conhecimento é bem-vinda!
+- Navegue pelas pastas conforme o tema que você tiver interesse
+- Dê uma olhada nos exemplos comentados e, se quiser, adapte para o seu contexto
+- Use como base para estudar, revisar ou se inspirar em algum projeto
+- Fique à vontade para contribuir com sugestões ou melhorias
 
-Obrigado por visitar este espaço. Espero que ele inspire, ensine e ajude você no seu próprio percurso no mundo do desenvolvimento. 🚀
+---
+
+## Está sempre em construção
+
+Como todo processo de aprendizado, esse repositório também está em constante atualização, sempre que possível, reviso, melhoro e adiciono novos conteúdos  
+Se você tiver qualquer ideia, feedback ou crítica construtiva, é só chamar
+
+Vlw por passar por aqui! Espero que alguma parte desse conteúdo possa te ajudar também 🚀
+
+---
